@@ -1,0 +1,379 @@
+.btn-submit {
+margin: auto;
+}
+
+.canvas{
+width: 66%;
+height: 100%;
+background-color: lightgrey;
+float: left;
+box-sizing: border-box;
+border: 3px solid white;
+overflow-y: hidden;
+overflow-x: hidden;
+}
+
+.canvascontainer{
+width: 66%;
+height: 200rem;
+background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(red, yellow, green); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(red, yellow, green); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(red, yellow, green); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(red, yellow, green); /* Standard syntax */
+
+}
+
+#canvasinput0{
+width: 100%;
+height: 100%;
+background-color: teal;
+}
+
+#canvasinput1{
+width: 100%;
+height: 100%;
+}
+
+#canvasinput2{
+width: 100%;
+height: 100%;
+background-color: green;
+}
+
+#canvasinput3{
+width: 100%;
+height: 100%;
+background-color: blue;
+}
+
+.centerbutton{
+  margin: auto;
+}
+
+#cohortsselect{
+  color: #FDFABB;
+}
+
+.content {
+    width: auto;
+    height: auto;
+    margin:0 auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#createarea{
+  width: 60%;
+  height: 100%;
+  margin: auto;
+}
+
+#div1{
+width: 100%;
+height: 100%;
+background-color: red;
+}
+
+#div2{
+width: 100%;
+height: 100%;
+background-color: blue;
+}
+
+#div3{
+width: 100%;
+height: 100%;
+background-color: green;
+}
+
+#div4{
+width: 100%;
+height: 100%;
+background-color: purple;
+}
+
+#dropdownselector1{
+  color: #FDFABB;
+}
+
+#dropdownselector2{
+  color: #FDFABB;
+}
+
+#exploreselect{
+  color: #FDFABB;
+}
+
+
+.homeparagraph{
+height: 100%;
+width: 60%;
+margin: auto;
+}
+
+#homeselect{
+  color: #FDFABB;
+}
+
+#linkcolor{
+  color: #FDFABB;
+}
+
+.lowerslot{
+width: 100%;
+height: 90%;
+background-color: red;
+}
+
+#completenavbar{
+  background-color: #166B44;
+}
+
+#myIframe{
+position: relative;
+height: 100%;
+width: 100%;
+overflow: auto
+}
+
+#navbarselection{
+  color: red;
+}
+
+.navstyling{
+background-color: #166B44;
+}
+
+.navcontainer{
+  width: 100%;
+  height: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.newcontainer{
+width: 100%;
+height: 100%;
+overflow-y: hidden;
+overflow-x: hidden;
+}
+
+.navlinkbackground{
+
+  background-color: black;
+}
+
+#skegleselect{
+  color: #FDFABB;
+}
+
+.sidecolumn{
+width: 34%;
+height: 100%;
+background-color: lightgrey;
+float: right;
+}
+
+#submitcohortbutton{
+  width: 50%;
+  float: left;
+  margin-left: 25%;
+  background-color: #166B44;
+  color: #FDFABB;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+#titlecolor{
+color: #FDFAAB;
+}
+
+.tilecontainer{
+width: 34%;
+height: 100%;
+background-color: green;
+}
+
+.tileone{
+width: 100%;
+height: 50%;
+background-color: lightgrey;
+box-sizing: border-box;
+border: 3px solid white;
+}
+
+.tiletwo{
+width: 100%;
+height: 50%;
+background-color: lightgrey;
+box-sizing: border-box;
+border: 3px solid white;
+}
+
+
+
+
+
+
+#tileinput1{
+width: 100%;
+height: 100%;
+background-color: white;
+}
+
+#tileinput2{
+width: 100%;
+height: 100%;
+background-color: #166d20;
+}
+
+#tileinput3{
+width: 100%;
+height: 100%;
+background-color: #9bea00;
+}
+
+#tileinput4{
+width: 100%;
+height: 100%;
+background-color: #ffc2ab;
+}
+
+#tileinput5{
+width: 100%;
+height: 100%;
+background-color: #ad0725;
+}
+
+#tileinput6{
+width: 100%;
+height: 100%;
+background-color: blue;
+}
+
+#tileinput7{
+width: 100%;
+height: 100%;
+background-color: #8a719a;
+}
+
+#tileinput8{
+width: 100%;
+height: 100%;
+background-color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+#tile1div1{
+width: 100%;
+height: 100%;
+background-color: white;
+}
+
+#tile1div2{
+width: 100%;
+height: 100%;
+background-color: #166d20;
+}
+
+#tile1div3{
+width: 100%;
+height: 100%;
+background-color: #9bea00;
+}
+
+#tile1div4{
+width: 100%;
+height: 100%;
+background-color: #ffc2ab;
+}
+
+#tile1div5{
+width: 100%;
+height: 100%;
+background-color: #ad0725;
+}
+
+#tile1div6{
+width: 100%;
+height: 100%;
+background-color: blue;
+}
+
+#tile1div7{
+width: 100%;
+height: 100%;
+background-color: #8a719a;
+}
+
+#tile1div8{
+width: 100%;
+height: 100%;
+background-color: purple;
+}
+
+#tile2div1{
+width: 100%;
+height: 100%;
+background-color: #ad0725;
+}
+
+#tile2div2{
+width: 100%;
+height: 100%;
+background-color: blue;
+}
+
+#tile2div3{
+width: 100%;
+height: 100%;
+background-color: #8a719a;
+}
+
+#tile2div4{
+width: 100%;
+height: 100%;
+background-color: purple;
+}
+
+#tile2div5{
+width: 100%;
+height: 100%;
+background-color: #ad0725;
+}
+
+#tile2div6{
+width: 100%;
+height: 100%;
+background-color: blue;
+}
+
+#tile2div7{
+width: 100%;
+height: 100%;
+background-color: #8a719a;
+}
+
+#tile2div8{
+width: 100%;
+height: 100%;
+background-color: purple;
+}
+
+
+.upperslot{
+width: 100%;
+height: 10%;
+overflow: hidden;
+z-index: 2;
+}
